@@ -1,0 +1,17 @@
+# Compiled binaries
+*.exe
+*.out
+*.test
+
+# Database files
+*.db
+*.wal
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
